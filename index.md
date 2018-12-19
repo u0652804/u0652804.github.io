@@ -7,7 +7,9 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>boxunliao</h1>
-        
+		
+        <a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
+		
       </div>
       <div id="particles-js"></div>
     </div>
