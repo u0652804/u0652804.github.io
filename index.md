@@ -7,7 +7,7 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>boxunliao</h1>
-		
+		<img src="/images/tag-icon.svg" width="60px" /> 
         <a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
 		
       </div>
