@@ -6,9 +6,10 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
+	    <div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>
         <h1>boxunliao</h1>
-		<div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>
-        <a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
+        <div></div>
+		<a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
