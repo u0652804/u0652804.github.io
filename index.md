@@ -13,17 +13,15 @@ layout: default
 
 <body>
   <div class="index-wrapper">
-    <div class="aside" id="large-header">
-
+    <div class="aside" id="large-header"><!-- # js background effects : set id -->
 	
-
+	      <!-- # js background effects -->
           <canvas id="demo-canvas" width="500" height="1938"></canvas>
-
-          <!-- # js background effects -->
+          
           <script src="js/backeff1/js/EasePack.min.js"></script>
           <script src="js/backeff1/js/TweenLite.min.js"></script>
           <script src="js/backeff1/js/helloweb.js"></script>
-	 
+		  <!-- # js background effects -->
      
 	 <div class="info-card">
 	    <!--<div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>-->
