@@ -13,7 +13,7 @@ layout: default
       </div>
       <div id="particles-js">
 	  
-	  	  		<!-- embed a background-effect by iframe -->
+
         <div id="iframe-wrap">
             <iframe width="100%" height="100%" frameborder="0" src="js/backeff1/index1.html" id="iframe"></iframe>
         </div>
