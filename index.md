@@ -10,13 +10,13 @@ layout: default
 	left:0px;
 }
 
-a:link {
-  z-index:2;
+#e_container {	
+    top:0px;
+	left:0px;
+    z-index:2;
+    position:absolute;
 }
 
-img {
-  z-index:2;
-}
 
 </style>
 
@@ -32,11 +32,11 @@ img {
           <script src="js/backeff1/js/helloweb.js"></script>
 		  <!-- # js background effects -->
      
-	 <div class="info-card">
+	 <div class="info-card" id="e_container">
 	    <!--<div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>-->
         <h1>boxunliao</h1>
         <div></div>
-		<a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico"  alt="" width="25"/></a>
+		<a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
       </div>
       <div id="particles-js">
 	  
