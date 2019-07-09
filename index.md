@@ -5,7 +5,13 @@ layout: default
 <body>
   <div class="index-wrapper">
     <div class="aside">
-      <div class="info-card">
+
+	 <!-- embed a background-effect by iframe -->
+     <div id="iframe-wrap">
+         <iframe width="100%" height="876px" frameborder="0" src="js/backeff1/index1.html" id="iframe"></iframe>
+     </div>
+     
+	 <div class="info-card">
 	    <!--<div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>-->
         <h1>boxunliao</h1>
         <div></div>
