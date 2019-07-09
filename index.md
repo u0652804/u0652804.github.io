@@ -13,16 +13,11 @@ layout: default
 
 <body>
   <div class="index-wrapper">
-    <div class="aside" id="large-header">
+    <div class="aside">
 
 	
 
-          <canvas id="demo-canvas" width="500" height="1938"></canvas>
 
-          <!-- # js background effects -->
-          <script src="js/backeff1/js/EasePack.min.js"></script>
-          <script src="js/backeff1/js/TweenLite.min.js"></script>
-          <script src="js/backeff1/js/helloweb.js"></script>
 	 
      
 	 <div class="info-card">
@@ -32,6 +27,14 @@ layout: default
 		<a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
       </div>
       <div id="particles-js">
+	  
+	            <canvas id="demo-canvas" width="500" height="1938"></canvas>
+
+          <!-- # js background effects -->
+          <script src="/js/backeff1/js/EasePack.min.js"></script>
+          <script src="/js/backeff1/js/TweenLite.min.js"></script>
+          <script src="/js/backeff1/js/helloweb.js"></script>
+	  
 	  
 	  </div>
     </div>
