@@ -15,12 +15,16 @@ layout: default
         <div></div>
 		<a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
       </div>
-      <div id="particles-js"></div>
+      <div id="particles-js">
+	    
+		<!-- embed a background-effect by iframe -->
+        <div id="iframe-wrap">
+            <iframe width="100%" height="876px" frameborder="0" src="js/backeff1/index1.html" id="iframe"></iframe>
+        </div>
 	  
-	  <!-- embed a background-effect by iframe -->
-      <div id="iframe-wrap">
-          <iframe width="100%" height="876px" frameborder="0" src="js/backeff1/index1.html" id="iframe"></iframe>
-      </div>
+	  </div>
+	  
+
 	  
     </div>
 
