@@ -11,7 +11,7 @@ layout: default
 }
 
 #git_href{
-	position:absolute;
+	//position:absolute;
 	z-index:2;
 }
 
