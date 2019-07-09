@@ -19,6 +19,8 @@
         canvas.width = width;
         canvas.height = height;
         ctx = canvas.getContext('2d');
+		//boxun add
+		//ctx.fillStyle = 'rgba(255, 255, 255, 0)';//
 
         // create points
         points = [];

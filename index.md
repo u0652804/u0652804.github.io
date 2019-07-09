@@ -1,15 +1,24 @@
 ---
 layout: default
 ---
+<style>
+#demo-canvas{
+	background:rgba(255,255,255,0);/*关键点*/
+	position:absolute;
+	z-index:1;/*确保在遮盖的元素的上方*/
+	top:0px;
+	left:0px;
+}
+</style>
 
 <body>
   <div class="index-wrapper">
-    <div class="aside">
+    <div class="aside" id="large-header">
 
 	
-          <div id="large-header">
-              <canvas id="demo-canvas" width="100%" height="100%"></canvas>
-          </div>
+
+          <canvas id="demo-canvas" width="100%" height="100%"></canvas>
+
           <!-- # js background effects -->
           <script src="js/backeff1/EasePack.min.js"></script>
           <script src="js/backeff1/TweenLite.min.js"></script>
