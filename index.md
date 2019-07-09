@@ -33,7 +33,7 @@ layout: default
 	    <!--<div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>-->
         <h1>boxunliao</h1>
         <div></div>
-		<a href="https://github.com/u0652804" target="_blank" id="git_href"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
+		<a href="https://github.com/u0652804" target="_blank"><img src="https://github.com/favicon.ico" id="git_href" alt="" width="25"/></a>
       </div>
       <div id="particles-js">
 	  
