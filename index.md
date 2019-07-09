@@ -5,10 +5,6 @@ layout: default
 <body>
   <div class="index-wrapper">
     <div class="aside">     
-	 <div id="large-header">
-         <canvas id="demo-canvas" width="1680" height="469"></canvas>
-     </div>
-     
 	 <div class="info-card">
 	    <!--<div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>-->
         <h1>boxunliao</h1>
@@ -23,9 +19,6 @@ layout: default
         </div>
 	  
 	  </div>
-	  
-
-	  
     </div>
 
     <div class="index-content">
