@@ -8,16 +8,13 @@ layout: default
 
 	
           <div id="large-header">
-              <canvas id="demo-canvas" width="499.97" height="100%"></canvas>
+              <canvas id="demo-canvas" width="100%" height="100%"></canvas>
           </div>
           <!-- # js background effects -->
           <script src="js/backeff1/EasePack.min.js"></script>
           <script src="js/backeff1/TweenLite.min.js"></script>
           <script src="js/backeff1/helloweb.js"></script>
 	 
-	 <div id="large-header">
-         <canvas id="demo-canvas" width="1680" height="469"></canvas>
-     </div>
      
 	 <div class="info-card">
 	    <!--<div><img src="https://github.com/u0652804/u0652804.github.io/blob/master/images/avatar.jpg?raw=true" width="120px" /></div>-->
