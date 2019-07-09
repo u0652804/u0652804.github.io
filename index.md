@@ -3,9 +3,9 @@ layout: default
 ---
 <style>
 #demo-canvas{
-	background:rgba(255,255,255,0);/*关键点*/
+	background:rgba(255,255,255,0);
 	position:absolute;
-	z-index:1;/*确保在遮盖的元素的上方*/
+	z-index:1;
 	top:0px;
 	left:0px;
 }
