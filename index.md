@@ -7,10 +7,13 @@ layout: default
     <div class="aside">
 
 	
-	 	  <!-- embed a background-effect by iframe -->
-      <div id="iframe-wrap">
-          <iframe width="100%" height="876px" frameborder="0" src="js/backeff1/index1.html" id="iframe"></iframe>
-      </div>
+          <div id="large-header">
+              <canvas id="demo-canvas" width="499.97" height="100%"></canvas>
+          </div>
+          <!-- # js background effects -->
+          <script src="js/backeff1/EasePack.min.js"></script>
+          <script src="js/backeff1/TweenLite.min.js"></script>
+          <script src="js/backeff1/helloweb.js"></script>
 	 
 	 <div id="large-header">
          <canvas id="demo-canvas" width="1680" height="469"></canvas>
