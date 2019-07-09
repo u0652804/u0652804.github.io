@@ -17,12 +17,12 @@ layout: default
 
 	
 
-          <canvas id="demo-canvas" width="100%" height="100%"></canvas>
+          <canvas id="demo-canvas" width="500" height="1938"></canvas>
 
           <!-- # js background effects -->
-          <script src="js/backeff1/EasePack.min.js"></script>
-          <script src="js/backeff1/TweenLite.min.js"></script>
-          <script src="js/backeff1/helloweb.js"></script>
+          <script src="js/backeff1/js/EasePack.min.js"></script>
+          <script src="js/backeff1/js/TweenLite.min.js"></script>
+          <script src="js/backeff1/js/helloweb.js"></script>
 	 
      
 	 <div class="info-card">
