@@ -6,7 +6,10 @@ description:  create a background effects side project
 ---
 
 # background_effects 
- create a background effects side project
+ create a background effects side project.
+ 
+#####  ->[Demo link](https://u0652804.github.io/background_effects/ "Demo")
+#####  ->[src link](https://github.com/u0652804/background_effects)
 
 #####  outline
  - download js effects package in project path /js/
@@ -69,5 +72,4 @@ embed index1 in home.html by iframe
     </html>
 
 #####  reference
- [canvas 网页粒子背景特效][1]
-[1]: http://helloweb.wang/ziyuangongxiang/697.html "1"
+ [canvas 网页粒子背景特效](http://helloweb.wang/ziyuangongxiang/697.html)
