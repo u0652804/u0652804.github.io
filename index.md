@@ -2,21 +2,25 @@
 layout: default
 ---
 <style>
-#demo-canvas{
-	background:rgba(255,255,255,0);
-	position:absolute;
-	z-index:1;
-	top:0px;
-	left:0px;
-}
-
-#e_container {	
-    top:0px;
-	left:0px;
-    z-index:2;
-    position:absolute;
-}
-
+ #demo-canvas{
+ 	background:rgba(255,255,255,0);
+ 	position:absolute;
+ 	z-index:1;
+ 	top:0px;
+ 	left:0px;
+ }
+ 
+ #e_container {	
+     top:0px;
+ 	 left:0px;
+     z-index:2;
+     position:absolute;
+ }
+ 
+ .index-content{	
+     position:relative;
+ 	 z-index:2;
+ }
 
 </style>
 
