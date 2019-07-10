@@ -1,8 +1,8 @@
 ---
 layout:       post
-title:           Python and ADB tool
+title:        Python and ADB tool(1)
 category:     blog
-description:  Use Python to execute adb commands
+description:  Use Python to execute adb commands(1)
 ---
 
 Use Python to execute adb commands for controling mobile like smart phone and tablet.
